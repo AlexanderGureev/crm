@@ -1,5 +1,5 @@
 {
-  "singleQuote": true,
+  "singleQuote": false,
   "jsxBracketSameLine": true,
   "tabWidth": 2,
   "useTabs": false,
@@ -9,13 +9,13 @@
     {
       "files": ".ts?x",
       "options": {
-        "parser":"typescript"
+        "parser": "typescript"
       }
     },
     {
       "files": ".css",
       "options": {
-        "parser":"css"
+        "parser": "css"
       }
     }
   ]
