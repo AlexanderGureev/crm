@@ -63,7 +63,7 @@
       "prettier --write",
       "tslint -p tsconfig.json",
       "git add",
-      "set CI=true&&yarn test"
+      "jest --bail —-findRelatedTests"
     ]
   },
   "browserslist": {
