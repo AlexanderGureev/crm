@@ -1,0 +1,12 @@
+:root {
+  /* Fonts */
+  --font-primary: 'Montserrat', 'MontserratLocal', sans-serif;
+  --bgGray1: #dedfe4;
+  --bgGray2: #e0e1e9;
+  --white: #ffffff;
+  --gray1: rgba(0, 0, 0, 0.1);
+  --gray5: rgba(0, 0, 0, 0.5);
+  --gray7: rgba(0, 0, 0, 0.7);
+  --blue: #1233fc;
+  --blue02: rgba(24, 144, 255, 0.2);
+}
