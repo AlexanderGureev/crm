@@ -16,7 +16,7 @@
     "@types/styled-components": "^4.1.19",
     "@types/webpack-env": "^1.14.1",
     "antd": "^3.24.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cross-env": "^6.0.3",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
